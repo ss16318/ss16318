@@ -21,6 +21,7 @@ Throughout my studies, I have had many opportunities to explore interesting codi
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/ss16318/sitk/blob/main/SITK.png" title="SimpleITK" alt="SimpleITK" width="40" height="40"/>&nbsp;
 </div>
 
 
