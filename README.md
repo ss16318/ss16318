@@ -2,11 +2,12 @@
 
  I am an aspiring data scientist :grin:
  
-Currently I'm studying my masters in data science at Columbia University, New York City. Before this, I studied computational biomedical engineering at Imperial College London.
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+
+Currently I'm studying my masters in data science at Columbia University, New York City. Before this, I studied computational biomedical engineering at Imperial College London.
 
 Throughout my studies, I have had many opportunities to explore interesting coding projects from building a bed manager app for hospitals to analyzing a robots ability to distinguish objects using touch. So far, the largest project I have worked on was building a 3D artificial skull generator for my masters project at Imperial.
 
