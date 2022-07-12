@@ -9,7 +9,19 @@
 
 Currently I'm studying my masters in data science at Columbia University, New York City. Before this, I studied computational biomedical engineering at Imperial College London.
 
-Throughout my studies, I have had many opportunities to explore interesting coding projects from building a bed manager app for hospitals to analyzing a robots ability to distinguish objects using touch. So far, the largest project I have worked on was building a 3D artificial skull generator for my masters project at Imperial.
+Throughout my studies, I have had many opportunities to explore interesting coding projects which include:
+
+1. Creating an artificial skull generator (Skills: PCA, Image processing, Statistical Deformation Modelling)
+
+2. Analyzing a robots ability to distunguish objects using touch sensors (Skills: PCA, LDA, Bagging, Clustering)
+
+3. Exploring computer vision techniques (Skills: Keypoint Matching, Camera Calibration, Epipolar Geometry, Depth Maps)
+
+4. Building a neural decoder to predict arm movement (Testing a range of classification and regression machine learning methods)
+
+5. Hospital Bed Manager App (Skills: OOP fundamentals, Front-End Design, Platform Testing)
+
+6. Ankle Controller Interface (Skills: Dynamic Front-End Design, Back-End Integration)
 
 ---
 
