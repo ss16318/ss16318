@@ -19,12 +19,6 @@ Throughout my studies, I have had many opportunities to explore interesting codi
 
 3. Exploring computer vision techniques (Skills: Keypoint Matching, Camera Calibration, Epipolar Geometry, Depth Maps)
 
-4. Building a neural decoder to predict arm movement (Testing a range of classification and regression machine learning methods)
-
-5. Hospital Bed Manager App (Skills: OOP fundamentals, Front-End Design, Platform Testing)
-
-6. Ankle Controller Interface (Skills: Dynamic Front-End Design, Back-End Integration)
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
