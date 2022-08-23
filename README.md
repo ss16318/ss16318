@@ -13,11 +13,13 @@ Currently I'm studying my masters in data science at Columbia University, New Yo
 
 Throughout my studies, I have had many opportunities to explore interesting coding projects which include:
 
-1. Creating an artificial skull generator (Skills: PCA, Image processing, Statistical Deformation Modelling)
+1. Sales Forecasting *(Skills: ARIMA, XGBoost, Pandas, Statistical Properties of Signals)*
 
-2. Analyzing a robots ability to distunguish objects using touch sensors (Skills: PCA, LDA, Bagging, Clustering)
+2. Creating an artificial skull generator *(Skills: PCA, Image processing, Statistical Deformation Modelling)*
 
-3. Exploring computer vision techniques (Skills: Keypoint Matching, Camera Calibration, Epipolar Geometry, Depth Maps)
+3. Analyzing a robots ability to distunguish objects using touch sensors *(Skills: PCA, LDA, Bagging, Clustering)*
+
+4. Exploring computer vision techniques *(Skills: Keypoint Matching, Camera Calibration, Epipolar Geometry, Depth Maps)*
 
 ---
 
