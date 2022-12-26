@@ -1,6 +1,6 @@
 ### Hi I'm Sebastian :wave:
 
- I am an aspiring data scientist :grin:
+ I am an aspiring Data Scientist :grin:
  
 Currently I'm studying my masters in Data Science at Columbia University, New York City. Before this, I studied Computational Biomedical Engineering at Imperial College London.
  
@@ -13,7 +13,7 @@ Currently I'm studying my masters in Data Science at Columbia University, New Yo
 
 Throughout my studies, I have had many opportunities to explore interesting coding projects which include:
 
-1. Building a Neural Network to Predict Stock Price Increase *(Skills: Tensorflow, Keras, ANNs)*
+1. Building a Neural Network to Predict Stock Price Increase *(Skills: Tensorflow, Keras, Artificial Neural Networks)*
 
 2. Sales Forecasting *(Skills: ARIMA, XGBoost, Pandas, Statistical Properties of Signals)*
 
