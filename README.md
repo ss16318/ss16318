@@ -1,9 +1,7 @@
 ### Hi I'm Sebastian :wave:
 
- I am an aspiring Data Scientist :grin:
- 
-Currently I'm studying my masters in Data Science at Columbia University, New York City. Before this, I studied Computational Biomedical Engineering at Imperial College London.
- 
+I am a Data Science professional and enthusiast! In my academic background, I studied a masters in Data Science from Columbia University and I also have a masters in Biomedical Engineering from Imperial College London.
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -13,15 +11,15 @@ Currently I'm studying my masters in Data Science at Columbia University, New Yo
 
 Throughout my studies, I have had many opportunities to explore interesting coding projects which include:
 
-1. Building a Neural Network to Predict Stock Price Increase *(Skills: Tensorflow, Keras, Artificial Neural Networks)*
+1. Developing a deep learning model to detect genetic mutations in images to personalize cancer treatment *(Skills: Torch, Deep Learning)*
 
-2. Sales Forecasting *(Skills: ARIMA, XGBoost, Pandas, Statistical Properties of Signals)*
+2. Building a Neural Network to Predict Stock Price Increase *(Skills: Tensorflow, Keras, Artificial Neural Networks)*
 
-3. Creating an artificial skull generator *(Skills: PCA, Image processing, Statistical Deformation Modelling)*
+3. Sales Forecasting *(Skills: ARIMA, XGBoost, Pandas, Statistical Properties of Signals)*
 
-4. Investigating the value of players in Fantasy Premier League *(Skills: Data Viz, Interactive Plots with D3, RMardown)*
+4. Creating an artificial skull generator *(Skills: PCA, Image processing, Statistical Deformation Modelling)*
 
-5. Analyzing a robots ability to distunguish objects using touch sensors *(Skills: PCA, LDA, Bagging, Clustering)*
+5. Investigating the value of players in Fantasy Premier League *(Skills: Data Viz, Interactive Plots with D3, RMardown)*
 
 ---
 
@@ -42,6 +40,8 @@ Throughout my studies, I have had many opportunities to explore interesting codi
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
   <img src=https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src=https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;
+  <img src=https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg title="Torch" alt="Torch" width="40" height="40"/>&nbsp;
+ <img src=https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
 </div>
 
 ---
